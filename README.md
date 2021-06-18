@@ -13,6 +13,8 @@
 > 文档来源于[官方文档](https://github.com/SortableJS/Vue.Draggable),  因为官网文档为英文文档, 看的吃力, 而且在网上也并未查询到相关中文文档，所以本人使用翻译工具与查阅相关资料进行逐行翻译, 如有不足请指正~
 >
 > 谨作学习使用。
+>
+> 中文翻译的的Github地址: https://github.com/itmier/Vue.Draggable
 
 Vue组件（Vue.js 2.0）或指令（Vue.js 1.0）允许拖放并与视图模型阵列同步。
 
